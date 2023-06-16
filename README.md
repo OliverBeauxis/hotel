@@ -1,4 +1,4 @@
-# Vzdělávací středisko a hotel při VOŠ, SPŠ a SOŠ Varnsdorf
+# Vzdělávací středisko a hotel VOŠ, SPŠ a SOŠ Varnsdorf
 
 Toto je redesign webu Vzdělávacího střediska a hotelu při VOŠ, SPŠ a SOŠ Varnsdorf ve formě prezentace.
 
